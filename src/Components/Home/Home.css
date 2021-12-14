@@ -1,0 +1,20 @@
+#displayCard{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+#testImages{
+  width: 60%;
+}
+
+#cardSet{
+  width: 25%;
+}
+
+#cardText{
+  margin: 0% 15%;
+  text-align: center;
+}
