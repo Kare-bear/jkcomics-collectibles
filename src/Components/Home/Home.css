@@ -18,3 +18,17 @@
   margin: 0% 15%;
   text-align: center;
 }
+
+#boxGroup{
+  max-width: 15%;
+  
+}
+
+#stationaryBox{
+  border: 3px solid black;
+  font-size: 20px;
+}
+/* 
+#brandLogos{
+
+} */
