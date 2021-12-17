@@ -1,3 +1,13 @@
+#homelayout{
+  margin: 0% 15%;
+  background-color: rgb(236, 236, 236);
+  border: 5px solid rgb(68, 68, 68);
+}
+
+#siteLogo{
+  border: 2px solid rgb(68, 68, 68);
+}
+
 #displayCard{
   display: flex;
   flex-direction: row;
@@ -14,19 +24,33 @@
   width: 25%;
 }
 
+#cardSet1{
+  width: 15%;
+}
+
 #cardText{
   margin: 0% 15%;
   text-align: center;
 }
 
+#cardText1{
+  margin: 0% 15%;
+  text-align: center;
+  font-size: 12px;
+}
+
 #boxGroup{
-  max-width: 15%;
-  
+  display: flex;
+  flex-direction: row;
+  justify-content:space-around;
 }
 
 #stationaryBox{
-  border: 3px solid black;
+  border: 3px solid rgb(68, 68, 68);
   font-size: 20px;
+  padding: 20px;
+  
+  
 }
 /* 
 #brandLogos{
