@@ -11,7 +11,6 @@ export default class ProductCard extends Component{
           <img src={TestImage1} id="testImages" alt="placeholderTESTIMAGE"/>
         </div>
         <div id="cardText1"><h2>Transformers Kingdom WFC-K32 Autobot Pipes</h2></div>
-        <div><h3>$26.99</h3></div>
       </div>
     )
   }
