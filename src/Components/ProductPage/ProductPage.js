@@ -7,7 +7,7 @@ export default class ProductPage extends Component{
   render(){
     return(
       <div>
-
+        This page is going to be the product page.
       </div>
     )
   }
