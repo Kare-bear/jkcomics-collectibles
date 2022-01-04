@@ -1,7 +1,6 @@
 import React from "react";
 import ProductCard1 from "../ProductCard/ProductCard"
 import ProductCard2 from "../ProductCard/ProductCard1"
-
 import "./Home.css";
 
 const Home = () => {
